@@ -1,0 +1,64 @@
+﻿ID,Requirement,requirement_class
+1,Recent transaction don't update as fast sometimes it even misplaces date and bring forth a transaction done a day or 2 back at the top,NFR
+2,the only thing remotely good is it,NFR
+3,Always mixes up sequence of transaction history and also take a very long to update those ,NFR
+4,"Doesn't generate the reciept page when you transfer to other banks, mostly displays an error image",FR
+5,Struggles to work in places with 2G connection,NFR
+6,"Very unstable, continuously crashes",NFR
+7,There is an incredible amount of balance and transaction synchronization errors,NFR
+9,"For a bank, that is quite embarrassing and dangerous.",NR
+10,"It's full of crashing features, can't sync real time need 3,4 touching doesn't work many times.",NFR
+11,I'm stuck with the app unable to access my money,NFR
+12,"When to use the app it doesn't work properly ,doesn't sync , started from last 2 months",NFR
+13,The app got dumber in the last update.,NFR
+14,"Poorly organized, redundant item across different categories.",NFR
+15,"It doesn't show some transactions,it misplace transactions,it misplace dates,it shows nonsense errors and so more.",NFR
+16,"Always says INACTIVE, sometimes doesn't sync, other times says go to the nearest branch and when I go they take forever",NFR
+17,"Trasaction Reports are not full, the list only shows the last 10 transactions",FR
+18,it would have been very great if there was a chance for topping up or Adding balance to your account.,FR
+19,"I had to reopen the app like 10 times to fix the ""NetWork error"" issue.",NFR
+20,The latest update is creating a lot of problems.,NFR
+21,Still no biometric sign in option ,FR
+22,Annoying welcome notification ,NFR
+23,Not able to share payment receipts just from the app,FR
+24,Different interface from one mobile device to the other one,NFR
+25,the app requires overhaul to cope with other mobile banking services of banks.,NFR
+26,doesn't show the recent updates balances and transaction,FR
+27,"the financial status display is limited, it's shows very few transactions",NFR
+28,there were transaction feature for more than one account in separate,FR
+29,I can't see my balance or send money using the application.,FR
+30, Please do not save the password localy in the phone. Make a post request to validate the password or use oauth methods,FR
+31, woman who got robbed her phone and they tranfered all money that she got because they got her password from her phone.,NFR
+32,I used old app for more than three years from Europe and every thing was perfect but  the app is not stable,NFR
+33, it is good if the transactions list were up to 2 or 3 months or even more.,FR
+34, when someone want to send birr from cbe to tele birr the transfer fee is higher and this is not correct,FR
+35,The most worst update I ever experienced,NFR
+36,It even doesn't let you know fast that you don't have balance,NFR
+37,It doesn't respond quickly,NFR
+38,Doesn't work when a lot of people are using CBE services and usually on weekends,NFR
+39,Customer service not helpful or doesn't even respond.,NFR
+40,Still you roll a same problem with the new updates,NFR
+41,When we do mobile transfer after we write short Reason and finish it says Error by writing the amount to transfer and your commission.,FR
+42,The new update is horrible. Unreliable. I can't send money nor check my balance.,FR
+43,Doesn't work almost 99 percent of the time.,NFR
+44,When they update the app they are updating bug not the functionality of the system.,NFR
+45,it takes unessential amount of money for no valid reason which is very disappointing,NFR
+46, the transaction history is not accurate ,FR
+47,Very weak and slow to sync and show the balance,FR
+48,It doesn't update quickly and display balances please improve so we can rely on the online payments.,NFR
+49,"Sometimes when you transfer it says repository failed, even though the transfer was successful",NFR
+50,Would be great if there was a feature to export your statement in CSV/Excel format,FR
+51,"the app starts to get stuck, and it cannot even show me the UI properly. ",NFR
+52," I couldn't transfer to an account from the beneficiary list, it says None Available",FR
+53,date conversion is missing also,FR
+54,"Most of the time, in the 'Recents' button the app becomes stuck and doesn't show up details of transactions and doesn't even scroll down;NFR",NFR
+55,the app doesn't save the last pop-up screen when a transaction is complete,NFR
+56,there is no telebirr transfer to other person option ,FR
+57, the app by default lets you to only own telebirr transfer,FR
+58, error popping up after a successful transfer to other bank. ,NFR
+59, it doesn't sync at times.,NFR
+60,,
+61,,
+62,,
+63,,
+64,,
